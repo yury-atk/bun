@@ -39,7 +39,7 @@ import { streamPath } from "./stream.ts";
  * is trusted, collapse both back to one constant.
  */
 export const ZIG_COMMIT = "365343af4fc5a1a632e6b54aadd0b87be30edd81";
-export const ZIG_COMMIT_PARALLEL = "7d3c0c9b3698d6ce57ef632833e71cab05b783b6";
+export const ZIG_COMMIT_PARALLEL = "c38724a97991213e5e7e8d85076e17e8ea4f350d";
 
 /**
  * The one place that picks which compiler to use. Everything coupled to
